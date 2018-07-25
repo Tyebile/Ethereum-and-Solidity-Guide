@@ -1,3 +1,3 @@
 # Ethereum-and-Solidity-Guide
 
-![Aaron Swartz](https://raw.githubusercontent.com/smshen/MarkdownPhotos/master/Res/test.jpg)
+![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/1532486908295.jpg)
