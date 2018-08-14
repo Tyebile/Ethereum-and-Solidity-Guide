@@ -23,3 +23,9 @@ Vitalik didn't want to jst use bitcoin to transfer money. He wanted to figure ou
 3. Node is a machine that is running in Ethereum. We take a node, and install some software on it. We run that software and then it connects to Ethereum network and starts becoming a part of the network overall.
 4. Anyone can run a node. Each node onn the network has a full copy of the blockchain.
 5. The blockchain is being like a database that a record of evey movement of money between different parties and that's also where we store data.
+
+## Intefacing with Ethereum Network
+![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/Interfacing.jpg)
+
+1. You can think of Web3.js as being our sort of portal where our window into the Ethereum network and it's going to allow us to send monney,store data,deploy contracts or do essentially whatever we want.
+2. Metamask and Mist Browser are used for consumers. We are going to be getting a trmendous amount of experience with Metamask.
