@@ -29,3 +29,18 @@ Vitalik didn't want to jst use bitcoin to transfer money. He wanted to figure ou
 
 1. You can think of Web3.js as being our sort of portal where our window into the Ethereum network and it's going to allow us to send monney,store data,deploy contracts or do essentially whatever we want.
 2. Metamask and Mist Browser are used for consumers. We are going to be getting a trmendous amount of experience with Metamask.
+
+## Metamask Setup
+
+Rinkeby Test Network is where we are going to be deploying a lot of test conntracts that we write and we'll also use it for a lot of other pruposes as well.
+
+## Ethereum Account
+![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/account.jpg)
+
+1. Account Address - It's unique identifier that can be shared with anyone in the world and it tells other people who you are that identifies your account in some fashion. You can think of it as being like an e-mail or a user name.
+2. Public Key and Private Key - They are used to authorize the sending of funds from your account to other.
+3. In the Ethereum world one account is used across all different networks(Main Network and Test Network)
+
+## Receiving Ether
+
+http://rinkeby-faucet.com/
