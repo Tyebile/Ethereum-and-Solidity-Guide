@@ -4,3 +4,6 @@ Goal of This Course - Build Web Apps with Ethereum, Not super deep academic disc
 
 ![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/structrued.jpg)
 
+## What is Ethereum?
+
+[What is Ethereum?](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/1.What%20is%20Ethereum%3F/1-Introduction.md "What is Ethereum?")
