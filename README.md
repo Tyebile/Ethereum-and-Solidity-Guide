@@ -6,4 +6,4 @@ Goal of This Course - Build Web Apps with Ethereum, Not super deep academic disc
 
 ## What is Ethereum?
 
-[What is Ethereum?](./1.What is Ethereum?/1-Introduction.md)
+[What is Ethereum?](./1.What%20is%20Ethereum%3F/1-Introduction.md)
