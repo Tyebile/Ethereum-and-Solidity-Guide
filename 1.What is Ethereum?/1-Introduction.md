@@ -44,3 +44,18 @@ Rinkeby Test Network is where we are going to be deploying a lot of test conntra
 ## Receiving Ether
 
 http://rinkeby-faucet.com/
+
+## Why'd we wait?
+![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/wait.jpg)
+
+We had used the Web3js library to create a transacation object and send that transactionn object to the rinkby test network then we wait for the transaction to be confimred.
+
+![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/transaction.jpg)
+
+Now when we sent the transaction out, it went ot one very particular node(The node has an entire copy of the blockchain). Maybe there are other people inthe world who want to submit transactions as well. So there is a lots of transactions that are coming into this node as the exact same time. All those transactions into one list of transactions which we refer to as a block the node then run some validation logic on this block that validation logic is what takes time.
+
+The validation logic is what you might have heard many times in the past when it comes to Bitcoin or Ethereum - Mining ! Mining!.
+
+So when those transactions right here get assembled innto the block the node starts runinng some calculationns on the block and that process is referred to as mining.
+
+[![Blockchain 101 - A Visual Demo](src="https://i.ytimg.com/vi/_160oMzblY8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDFXF4TIRjsoFpo5ZRo71oKHDd4qQ")](https://www.youtube.com/watch?v=_160oMzblY8)
