@@ -58,4 +58,4 @@ The validation logic is what you might have heard many times in the past when it
 
 So when those transactions right here get assembled innto the block the node starts runinng some calculationns on the block and that process is referred to as mining.
 
-[![Blockchain 101 - A Visual Demo](src="https://i.ytimg.com/vi/_160oMzblY8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDFXF4TIRjsoFpo5ZRo71oKHDd4qQ")](https://www.youtube.com/watch?v=_160oMzblY8)
+[![Blockchain 101 - A Visual Demo](https://i.ytimg.com/vi/_160oMzblY8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDFXF4TIRjsoFpo5ZRo71oKHDd4qQ)](https://www.youtube.com/watch?v=_160oMzblY8)
