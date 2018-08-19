@@ -81,3 +81,5 @@ Contract Source is the actual code that instructs the contract how it should beh
 Solidity is written into .sol files. Solidity is strongly typed unlike javascript which is dynamically typed. It's being similar to javascript.
 
 ![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/definition.jpg)
+
+When we write a contract we're going to write what we called a contract definition using solidity. Solidity is acuual programming language that is very easy for you to read and interact with and understand. But it's nnot the actual code that is actually executed on the Ethereum Network inside of these Smart Contracts. Instead we're going to take that contract definition and feed it into a solidity compiler. This compiler is going to spit out two separate files.The first ont is going to contain some byte code and this actual byte code that will be deployed to the Ethereum network. On the other hand the solidity compiler is also going to spit out somethinng called the applicationn binary interface which we are going to refer to as the ABI.
