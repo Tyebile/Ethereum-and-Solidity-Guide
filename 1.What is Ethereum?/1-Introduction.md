@@ -53,3 +53,31 @@ The validation logic is what you might have heard many times in the past when it
 So when those transactions right here get assembled innto the block the node starts runinng some calculationns on the block and that process is referred to as mining.
 
 [![Blockchain 101 - A Visual Demo](https://i.ytimg.com/vi/_160oMzblY8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDFXF4TIRjsoFpo5ZRo71oKHDd4qQ)](https://www.youtube.com/watch?v=_160oMzblY8)
+
+## Smart Contracts
+
+Smart Conntract - An account controller by code
+
+![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/contract_account.jpg)
+
+1. Balance Same as rur accounts have balances as well.
+2. Storage can be numbers, strings, arrays any type of data that is relevant to the application
+3. The code that we write on inside of our code editors are going to be compiled down to this raw machine code and it's stored inside the contract account.
+
+So the contract account always has a good idea of exactly what it's supposed to do because it's code and instructions are stored along whit it.
+
+![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/different_from_account.jpg)
+
+There is ont last very critical difference between an account that we created by Metamask and a contract account. We refer to as external account, External account can use the same exact account to connnect to the all kinds of network Roberston kocan or rinkby, On the other hand theres contract account are onnly specific to onne individual network.
+
+![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/contract_source.jpg)
+
+Contract Source is the actual code that instructs the contract how it should behave and how it should handle monney. We will then take that contract code and deploy it to a network like say Rinekby. When we deploy this conntract code it creates an instance of the conntract or what we refer as the contract account. We can take one contract source code or one contract file and deploy multiple time to one network or multiple networks. It's very very similer to a Java Class.
+
+## The Solidity Programming Language
+
+![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/solidity.jpg)
+
+Solidity is written into .sol files. Solidity is strongly typed unlike javascript which is dynamically typed. It's being similar to javascript.
+
+![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/definition.jpg)
