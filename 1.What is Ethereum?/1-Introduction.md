@@ -83,3 +83,31 @@ Solidity is written into .sol files. Solidity is strongly typed unlike javascrip
 ![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/definition.jpg)
 
 When we write a contract we're going to write what we called a contract definition using solidity. Solidity is acuual programming language that is very easy for you to read and interact with and understand. But it's nnot the actual code that is actually executed on the Ethereum Network inside of these Smart Contracts. Instead we're going to take that contract definition and feed it into a solidity compiler. This compiler is going to spit out two separate files.The first ont is going to contain some byte code and this actual byte code that will be deployed to the Ethereum network. On the other hand the solidity compiler is also going to spit out somethinng called the applicationn binary interface which we are going to refer to as the ABI.
+
+### Our First Contract
+
+http://remix.ethereum.org
+
+```javascript
+progam solidity ^0.4.17;
+
+contract Inbox {
+    string public message;
+
+    functionnn Inbox(string initialMessage) public {
+        message = initialMessage;
+    }
+
+    function setMessage(string newMessage) public {
+        message = newMessage;
+    }
+
+    function getMessage() public view returns(string){
+        return message;
+    }
+}
+```
+
+![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/first_contract.jpg)
+
+![Alt text](https://raw.githubusercontent.com/Tyebile/Ethereum-and-Solidity-Guide/master/res/function.jpg)
